@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e252d03e-50f6-498a-9cf1-e63e4fefd40b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1czyq4VM2FmcPkW7RmGCKWyirtZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/diagram" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\Ideaprojects\practice\IHRM\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\Ideaprojects\practice\IHRM\src\main\resources\diagram" />
+      <recent name="D:\develop\Ideaprojects\practice\IHRM\src\main\java\com\blackburnnn\activiti" />
+      <recent name="D:\develop\Ideaprojects\practice\IHRM\src\test\java\com\blackburnnn\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ActivitiTest">
+    <configuration name="ActivitiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blackburnnn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blackburnnn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blackburnnn.test.ActivitiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivitiTest.getProcessResources" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blackburnnn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blackburnnn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blackburnnn.test.ActivitiTest" />
+      <option name="METHOD_NAME" value="getProcessResources" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivitiTest.getProcessResources1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blackburnnn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blackburnnn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blackburnnn.test.ActivitiTest" />
+      <option name="METHOD_NAME" value="getProcessResources1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivitiTest.queryProceccDefinition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blackburnnn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blackburnnn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blackburnnn.test.ActivitiTest" />
+      <option name="METHOD_NAME" value="queryProceccDefinition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivitiTest.testGenTable1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blackburnnn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.blackburnnn.test" />
+      <option name="MAIN_CLASS_NAME" value="com.blackburnnn.test.ActivitiTest" />
+      <option name="METHOD_NAME" value="testGenTable1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ActivitiTest" />
+        <item itemvalue="JUnit.ActivitiTest.getProcessResources1" />
+        <item itemvalue="JUnit.ActivitiTest.getProcessResources" />
+        <item itemvalue="JUnit.ActivitiTest.queryProceccDefinition" />
+        <item itemvalue="JUnit.ActivitiTest.testGenTable1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e252d03e-50f6-498a-9cf1-e63e4fefd40b" name="Default Changelist" comment="" />
+      <created>1591545903067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591545903067</updated>
+      <workItem from="1591545904439" duration="1284000" />
+      <workItem from="1591547191717" duration="9000" />
+      <workItem from="1591547213276" duration="30000" />
+      <workItem from="1591547254863" duration="3421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="362" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591549211800">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="711" y="362" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/1920.40.1536.824@0.40.1920.1040" timestamp="1591549211800" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591551325365">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.40.1536.824@0.40.1920.1040" timestamp="1591551325365" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591551325365">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.40.1920.1040/1920.40.1536.824@0.40.1920.1040" timestamp="1591551325365" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591551325365">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.40.1920.1040/1920.40.1536.824@0.40.1920.1040" timestamp="1591551325365" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591551325365">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.40.1920.1040/1920.40.1536.824@0.40.1920.1040" timestamp="1591551325365" />
+    <state x="461" y="202" key="SettingsEditor" timestamp="1591547608795">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="202" key="SettingsEditor/0.40.1920.1040/1920.40.1536.824@0.40.1920.1040" timestamp="1591547608795" />
+  </component>
+</project>
